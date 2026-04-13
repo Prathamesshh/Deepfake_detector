@@ -32,13 +32,13 @@ This dual-approach achieves ~94% AUC on FaceForensics++ while maintaining fast i
 
 ## Key Features
 
-✅ **Image Analysis** — Single image classification with confidence scores
-✅ **Video Analysis** — Frame-by-frame detection with timeline visualization
-✅ **Explainability** — Visual heatmaps showing decision regions
-✅ **Dual-Domain Analysis** — Spatial + frequency heatmaps reveal different artifact types
-✅ **Branch Attribution** — Pie chart showing which domain contributed to the verdict
-✅ **Per-Frame Timeline** — For videos, shows fake probability across all frames
-✅ **Modern UI** — Dark theme, responsive design, real-time processing feedback
+✅ **Image Analysis** — Single image classification with confidence scores     
+✅ **Video Analysis** — Frame-by-frame detection with timeline visualization     
+✅ **Explainability** — Visual heatmaps showing decision regions      
+✅ **Dual-Domain Analysis** — Spatial + frequency heatmaps reveal different artifact types     
+✅ **Branch Attribution** — Pie chart showing which domain contributed to the verdict     
+✅ **Per-Frame Timeline** — For videos, shows fake probability across all frames     
+✅ **Modern UI** — Dark theme, responsive design, real-time processing feedback     
 
 ---
 
